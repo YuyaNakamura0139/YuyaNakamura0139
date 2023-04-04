@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ## Activities
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuyaNakamura0139&layout=compact&show_icons=true&theme=onedark&hide=Jupyter Notebook, CSS" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=YuyaNakamura0139&theme=onedark&show_icons=ture" />
   <img alt="trophy" height="126px" src="https://github-profile-trophy.vercel.app/?username=YuyaNakamura0139&theme=onedark" />
   <img alt="chart" height="412px" src="https://github-chart.vercel.app/api?user=YuyaNakamura0139" />
