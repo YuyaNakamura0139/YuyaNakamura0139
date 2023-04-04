@@ -1,11 +1,9 @@
 ## Introduction 👋
 
-- 🧞‍♂️ me : Yuya Nakamura
+- 😄 me : Yuya Nakamura
 - 🇯🇵 from : Japan
 - 📗 qiita : https://qiita.com/yuya_mtk371
-- 🌱 technical interest : fastapi, data engineering
-
-🏫 I'm studying spintronics using machine learning at Tohoku University.
+- 🌱 technical interest : data engineering
 
 <!--
 **YuyaNakamura0139/YuyaNakamura0139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +30,9 @@ Here are some ideas to get you started:
 </p>
 
 ## Career
-- 2021/3 東北大学工学部電気情報物理工学科　卒業
-- 2021/4 東北大学大学院工学研究科電子工学専攻　入学
-- 2021/12 株式会社EXIDEA インターン入社
+- 2021/03 東北大学工学部電気情報物理工学科 卒業
+- 2021/04 東北大学大学院工学研究科電子工学専攻 入学
+- 2021/12 株式会社EXIDEA インターン入社(データサイエンティスト)
+- 2023/03 株式会社EXIDEA インターン退社
+- 2023/03 東北大学大学院工学研究科電子工学専攻 修了
+- 2023/04 株式会社エニグモ 入社(データエンジニア)
